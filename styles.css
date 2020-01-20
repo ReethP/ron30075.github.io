@@ -1,0 +1,19 @@
+html,body{margin:0;padding:0}
+body{font: 76% arial,sans-serif;text-align:center}
+p{margin:0 10px 10px}
+a{padding:5px; text-decoration:none; color:#000000;}
+div#header{background-color:#C1F1F9;}
+div#header h1{height:80px;line-height:80px;margin:0;padding-left:10px;}
+
+div#container{text-align:left}
+div#content p{line-height:1.4}
+div#container{width:700px;margin:0 auto}
+div#content{float:right;width:500px}
+div#pic{float:left;width:200px}
+
+div#others{background:#90E8FB;}
+div#others{float:right;width:500px}
+
+div#footer{clear:both;width:100%}
+div#footer{background:#0093b3;}
+div#footer p{margin:0;padding:5px 10px}
